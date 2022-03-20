@@ -8,5 +8,5 @@ Elizabeth Bunker: elb248
 ### Goals for Spring 2022:
 Optimize sedimentation by investigating sedimentation tank performance at varing pHs to find the optimal pH and coagulant dosage.
 
-###Symposium Presentation Spring 2022:
+Symposium Presentation Spring 2022:
 https://docs.google.com/presentation/d/1KMwNUEADrpGaSeZ9tyqOyXjFdk9LAzFxMuh_yCXrsOo/edit#slide=id.g346a079b2f_0_0
